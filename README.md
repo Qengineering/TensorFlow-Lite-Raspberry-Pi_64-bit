@@ -24,7 +24,8 @@ Please notice the provided wheels are ***not*** suitable for C++ programming!<br
 Only for the Python3 installation of TensorFlow Lite on your machine.<br>
 
 ### Jetson Nano
-TensorFlow Lite, intended for mobile devices, does not support CUDA. You will have the regular aarch64 installation on your Nano.<br/>
+TensorFlow Lite, intended for mobile devices, does not support CUDA.<br>
+You will have the regular aarch64 installation on your Nano.<br/>
 
 ----------------------
 
