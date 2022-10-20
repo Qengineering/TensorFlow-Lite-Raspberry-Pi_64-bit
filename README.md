@@ -1,4 +1,4 @@
-# TensorFlow Lite wheels for Raspberry Pi
+# TensorFlow Lite wheels for Raspberry Pi 64-bit OS
 ![output image]( https://qengineering.eu/github/Tensor-flow_Lite_icon.webp )<br/><br/>
 
 Select your Python3 version depending on your operating system.
