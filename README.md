@@ -1,11 +1,17 @@
-# TensorFlow Lite wheels for Raspberry Pi and Jetson Nano
+# TensorFlow Lite for Raspberry Pi and Jetson Nano
 ![output image]( https://qengineering.eu/github/Tensor-flow_Lite_icon.webp )<br/><br/>
 
-Select your Python3 version depending on your **64-bit** operating system.
+Here you find the C++ installation tar.gz files as mentioned in our [guide](https://qengineering.eu/install-tensorflow-2-lite-on-raspberry-64-os.html).<br>
+Please see this page on how to install TensorFlow Lite C++.<br><br>
+For convenience reasons, we also placed the Python3 wheels.<br> 
+Note, the provided wheels are ***not*** suitable for C++ programming, only the tar files are.<br><br>
+Both C++ and Python support NEON and XNNPACK.<br>
 
 -----------------
 
 ## Roadmap.
+Select your Python3 version depending on your **64-bit** operating system.
+
 | Python3 | Operating system  | TF 2.10.0 | TF 2.9.1 | TF 2.8.0 | TF 2.7.0 |
 | ---------- | --------------------- | :---------------:  | :----------------: | :---------------: | :---------------: |
 | Python 3.6 | Jetson Nano 4.6       |                    |                    |                   |:heavy_check_mark: |
